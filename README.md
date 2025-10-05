@@ -39,5 +39,5 @@ It simulates a small-scale governance and financial linkage system, identifying 
 
 ---
 
-## 📂 Project Structure
+
 
